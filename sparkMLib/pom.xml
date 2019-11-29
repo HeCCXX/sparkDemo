@@ -14,6 +14,9 @@
     <modules>
         <module>sparkmlib_linear_regression</module>
         <module>sparkmlib_kmeans</module>
+        <module>sparkmlib_fpgrowth</module>
+        <module>sparkmlib_decision_tree</module>
+        <module>sparkmlib_collaborative_filtering</module>
     </modules>
     <dependencies>
         <dependency>
